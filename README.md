@@ -11,5 +11,5 @@ apps, or a `zellij` layout, which provides access to a number of utitilies.
 **Submodules** are individual elements that can be used on their own, or
 integrated as part of `thud`.
 
-* **repertor**: literally "the finder" a script with uses `fzf` to choose a file
+* **repertor**: literally "the finder" a script which uses `fzf` to choose a file
   and open it using the specified (or default: `xdg-open` based on *mimetype*)
